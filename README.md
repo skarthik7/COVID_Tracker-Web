@@ -1,1 +1,1 @@
-# COVID_Tracker-Web
+# COVID-Tracker_Web
