@@ -19,9 +19,7 @@ def country_summary(country):
         return "Country not found 🙁"
     return list(x[4:11])
 
-
 app = Flask(__name__)
-
 
 @app.route('/')  # , methods=['GET','POST']
 def index():
